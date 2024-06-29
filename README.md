@@ -19,9 +19,6 @@ This repository contains the implementation of the UI design challenge for the F
 ### Animations
 - **Basic Animations**: Incorporated simple animations to enhance user experience, such as fade-ins and transitions.
 
-### Testing
-- **Unit Tests**: Wrote unit tests for model classes and key functionalities to ensure code reliability and maintainability.
-
 ### Assumptions
 - **Design Consistency**: Assumed that the mockups provided are the final design specifications.
 - **Environment Setup**: Assumed that the development environment has the latest Flutter SDK installed.
@@ -57,23 +54,16 @@ This repository contains the implementation of the UI design challenge for the F
    flutter run 
 The application should now be running on your connected device or emulator.
 
-#### Running Tests
-
-3. **Run unit tests:**
-   ```sh
-   flutter test
-This will execute all the unit tests and display the results in the console.
-
 
 ## Time Spent
 
-Approximately X hours were spent on this task, including:
+Approximately Four hours were spent on this task, including:
 
-- Setting up the project and environment: X hours
-- Implementing the UI: X hours
-- Adding responsiveness and dark mode: X hours
-- Writing animations: X hours
-- Writing unit tests: X hours
+- Setting up the project and environment: a quarter of an hour
+- Implementing the UI: 3 hours
+- Adding responsiveness and dark mode: half an hour
+- Writing animations: 5 minutes
+
 
 ## Conclusion
 
@@ -84,6 +74,5 @@ This project demonstrates proficiency in Flutter development skills, including:
 - Responsiveness
 - Dark mode integration
 - Basic animations
-- Unit testing
 
 The code is structured to be clean, maintainable, and scalable.
