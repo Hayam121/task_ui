@@ -57,6 +57,7 @@ class CarItem extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
+                  height: PhoneSize.phoneHeight(context)*0.2,
                   width: double.infinity,
                   child: Image.asset(
                     image,
